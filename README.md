@@ -13,7 +13,8 @@
 <br></br>
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbnmopas&hide=contribs,prs&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vbnmopas&show_icons=true&theme=dracula&count_private=true)
+
 
 
 <!--
